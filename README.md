@@ -1,1 +1,1 @@
-# djangoTutorial-pt1
+# djangoTutorial
